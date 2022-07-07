@@ -1,3 +1,5 @@
 Learning Git in VS code
 
 Line 1
+
+Line 2
